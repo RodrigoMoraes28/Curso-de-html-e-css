@@ -1,0 +1,76 @@
+problema:
+
+1---- >id da "vantagens bikcraft" so aceita o ".bikcraft" no css e nao o "#.bikcraft" como deveria ser
+
+anotado esse problema 
+
+corrigido depois que tirei o section
+
+
+
+
+***** 2-----> a logo do .svg nao conseguiu ficar dentro do nav pq senao ia para display grid e ficaria do lado dos negocios la e precisava
+ficar em cima
+
+
+ainda persiste ------- ok corrigi
+
+
+ 
+3 ---- > o vantagens bikcraft nao consegue fazer o "self-align: center" funcionar
+
+ver depois qual é esse problema
+
+tirei o section e funcionou --- > ver na resolução se isso tava certo mesmo ou nao podia fazer
+
+ 
+MAIOR PROBLEMA***** 4 ---- > Mudar os estados de alguns elementos ao passar o mouse por cima.
+-Borda vermelha nos links do menu, vermelho escuro no botão (#900) e borda esquerda vermelha nas vantagens.
+
+----> problema: nos links do menu a borda nao respeita o box model e fica meio
+que aumentando o tamanho do padding , nao entendi
+
+
+
+
+
+
+
+
+FALTA:
+
+
+ 
+Mudar os estados de alguns elementos ao passar o mouse por cima.
+-Borda vermelha nos links do menu, vermelho escuro no botão (#900) e borda esquerda vermelha nas vantagens.
+
+----> problema: nos links do menu a borda nao respeita o box model e fica meio
+que aumentando o tamanho do padding , nao entendi ------- ok corrigi
+
+
+Pintar os itens ímpares:
+-Das vantagens com o tom de cinza claro (o background com #f7f7f7)
+
+----> ok 
+
+Substituir o span decorativo:
+-Pelo pseudo element ideal
+
+
+-----> fiz
+
+
+
+
+
+
+
+
+FALTA:
+
+juntar num msm bloco a foto e a descrição
+
+e em outro o titulo de vantagens com a lista de vantagens
+
+link: https://www.origamid.com/curso/html-e-css-para-iniciantes/0506-refatorar-exercicio-1
+

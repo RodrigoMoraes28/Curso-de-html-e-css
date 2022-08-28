@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.editorAssociations": {
+        "*.class": "default"
+    },
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "cmake.configureOnOpen": true,
+    "workbench.colorTheme": "Omni Owl (Minimal Italics)"
+}

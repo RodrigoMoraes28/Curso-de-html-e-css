@@ -1,0 +1,66 @@
+Mudar o titulo pra o bagulho svg "bikcraft" na pasta img
+por o detalhe em vermelho q atravessa a foto como "span" pq eh 1 elemento inline
+
+procurar dnv oque é display block
+
+rever o position relative la quando ele falou do vermelinho
+
+
+
+text-transform: uppercase; ----> pra transformar as letras em maiscula
+
+width: 100%;    ----> o tamanho so pode ser de no 100%, usado pra n borrar imagens
+
+
+box-sizing: border-box; ---- > pega todo o conteudo ate a borda, tem 1 imagem q ilustra isso melhor 
+
+
+gap: 10px 20px;    ----> usado no grid para dar espaço para linha e coluna respectivamente, gap: <row-gap> <column-gap>, 
+normal por ele no body pra economizar tempo ja que aplica pra td o body
+
+
+grid-template-columns: auto 1fr; ---> td nova coluna q sera criada tera 1fr de tamamho
+
+
+body{
+  justify-items: center; -----> itens na horizontal estarao centralizados
+}
+
+
+.subtitulo {
+
+text-align: right;
+  padding: 40px;
+  align-self: center; -----> o item em especifico (por isso self) eh alinhado ao centro
+}
+
+
+ position: relative ----> se vc poe tipo 1 div e dentro dela 1 span e poe 
+
+
+div{
+ position : relative
+}
+
+span{
+  position : absolute
+  top: -20px;
+}
+
+o span pode ser por exemplo posicionado a tantos pixeis em relação ao pai sem ter q por margin e mts outras porra negativa ou mt coisa msm
+eh mais facil pra mexer so mudando a posição do q por isso
+
+z-index: ----> serve para mudar a posição, -1 ta atras, 0 automatico e 1 acima mas depende de quem recebe esse valor
+
+
+para nao ter que ficar usando mr
+
+
+***************************************
+
+PS:
+
+imaginar q tds os elementos do site tem um gap igual as vezes ajuda a economizar tempo
+
+
+max-width pode se referir ao tamanho dos conteudos e nao ao height da pagina, cuidado pra nao confundir

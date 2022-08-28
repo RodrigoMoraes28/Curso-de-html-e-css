@@ -1,0 +1,25 @@
+1- Site que diz sobre usuarios de browsers ao longo do mundo
+
+gs.statcounter.com
+
+
+2 - outro site sobre isso porem por mês
+
+w3schools.com/browsers/
+
+
+3 - site sobre tecnologias criadas novas para browsers
+e se ja estão implementadas ou não
+
+
+caniuse.com/?search=flexbox
+
+
+***BROWSER USADO DURANTE O CURSO***
+
+Google Chrome
+
+ele possui uma ferramenta que pode ajudar a gente a 
+debugar ou depurar o códigos 
+
+no inspecionar

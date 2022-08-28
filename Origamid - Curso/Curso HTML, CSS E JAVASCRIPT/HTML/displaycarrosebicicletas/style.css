@@ -1,0 +1,60 @@
+body {
+  font-family: Arial;
+}
+
+body {
+  margin: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: #111;
+}
+
+.titulo {
+  color: #111;
+  text-align: center;
+}
+
+.quadrado {
+  padding: 30px;
+  margin: 20px;
+  border-radius: 4px;
+  background: #111;
+}
+
+.nomeproduto {
+  margin: 0px;
+  color: #fff;
+}
+
+.precoproduto {
+  margin: 0px;
+  color: #febe01;
+}
+
+.descricaopalavras {
+  text-decoration: none;
+  color: #b2b2b2;
+}
+
+.numerodescricao {
+  text-decoration: none;
+  color: #febe01;
+}
+
+.botaocomprarcarro {
+  display: inline-block;
+  padding: 10px;
+  border-radius: 4px;
+  background: #febe01;
+  color: #332200;
+}
+
+.botaocomprarbicicleta {
+  display: inline-block;
+  padding: 10px;
+  border-radius: 4px;
+  background: #febe01;
+  color: #332200;
+}
